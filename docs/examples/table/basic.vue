@@ -11,7 +11,7 @@ const tableData = [
   {
     date: '2016-05-03',
     name: 'Tom',
-    address: 'No. 189, Grove St, Los Angeles',
+    address: 'No. 189, Grove St, Los 1111111111111111111111111111111111111111111111111A1ngeles',
   },
   {
     date: '2016-05-02',
